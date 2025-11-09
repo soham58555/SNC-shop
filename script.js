@@ -70,7 +70,7 @@ const products = [
 const testimonials = [
     {
         id: 1,
-        name: 'Alex Chen',
+        name: 'Pratham Patel',
         role: 'Tech Enthusiast',
         rating: 5,
         text: 'SNC Shopping has completely changed how I shop for tech. The futuristic interface and amazing product selection make every purchase exciting!',
@@ -78,7 +78,7 @@ const testimonials = [
     },
     {
         id: 2,
-        name: 'Sarah Mitchell',
+        name: 'Shamshad Khan',
         role: 'Digital Creator',
         rating: 5,
         text: 'The quality of products and the fast delivery is unmatched. I always find the latest gadgets here before anywhere else.',
@@ -86,7 +86,7 @@ const testimonials = [
     },
     {
         id: 3,
-        name: 'Marcus Johnson',
+        name: 'Virat kohli',
         role: 'Gaming Professional',
         rating: 5,
         text: 'From gaming laptops to VR headsets, SNC has everything I need. Customer service is top-notch too!',
@@ -396,3 +396,4 @@ document.addEventListener('mousemove', (e) => {
     cursorDot.style.top = e.clientY - 4 + 'px';
 });
 */
+
